@@ -1,0 +1,524 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18D711421A30114500A4FD74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D711411A30114500A4FD74 /* main.m */; };
+		18D7114A1A301E5D00A4FD74 /* NSString+CZ.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D711491A301E5D00A4FD74 /* NSString+CZ.m */; };
+		18D711521A30582800A4FD74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D711511A30582800A4FD74 /* main.m */; };
+		18D7115D1A3061E600A4FD74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D7115C1A3061E600A4FD74 /* main.m */; };
+		18D711631A30632300A4FD74 /* CZPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D711621A30632300A4FD74 /* CZPerson.m */; };
+		18D711661A30633300A4FD74 /* CZDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D711651A30633300A4FD74 /* CZDog.m */; };
+		18F3CEA01A3079C300E42F24 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3CE9F1A3079C300E42F24 /* main.m */; };
+		18F3CEA81A307C6000E42F24 /* CZDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3CEA51A307C6000E42F24 /* CZDog.m */; };
+		18F3CEA91A307C6000E42F24 /* CZPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3CEA71A307C6000E42F24 /* CZPerson.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		18D7113C1A30114500A4FD74 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18D7114D1A30582800A4FD74 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18D711581A3061E600A4FD74 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18F3CE9B1A3079C300E42F24 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		18D7113E1A30114500A4FD74 /* 1204-字符串 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1204-字符串"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18D711411A30114500A4FD74 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18D711481A301E5D00A4FD74 /* NSString+CZ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+CZ.h"; path = "../NSString+CZ.h"; sourceTree = "<group>"; };
+		18D711491A301E5D00A4FD74 /* NSString+CZ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+CZ.m"; path = "../NSString+CZ.m"; sourceTree = "<group>"; };
+		18D7114F1A30582800A4FD74 /* 02-可变字符串 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "02-可变字符串"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18D711511A30582800A4FD74 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18D7115A1A3061E600A4FD74 /* NSArray */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NSArray; sourceTree = BUILT_PRODUCTS_DIR; };
+		18D7115C1A3061E600A4FD74 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18D711611A30632300A4FD74 /* CZPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZPerson.h; sourceTree = "<group>"; };
+		18D711621A30632300A4FD74 /* CZPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZPerson.m; sourceTree = "<group>"; };
+		18D711641A30633300A4FD74 /* CZDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZDog.h; sourceTree = "<group>"; };
+		18D711651A30633300A4FD74 /* CZDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZDog.m; sourceTree = "<group>"; };
+		18F3CE9D1A3079C300E42F24 /* 04-NSMutableArray */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "04-NSMutableArray"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18F3CE9F1A3079C300E42F24 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18F3CEA41A307C6000E42F24 /* CZDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZDog.h; sourceTree = "<group>"; };
+		18F3CEA51A307C6000E42F24 /* CZDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZDog.m; sourceTree = "<group>"; };
+		18F3CEA61A307C6000E42F24 /* CZPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZPerson.h; sourceTree = "<group>"; };
+		18F3CEA71A307C6000E42F24 /* CZPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZPerson.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18D7113B1A30114500A4FD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18D7114C1A30582800A4FD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18D711571A3061E600A4FD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18F3CE9A1A3079C300E42F24 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18D711351A30114500A4FD74 = {
+			isa = PBXGroup;
+			children = (
+				18D711401A30114500A4FD74 /* 1204-字符串 */,
+				18D711501A30582800A4FD74 /* 02-可变字符串 */,
+				18D7115B1A3061E600A4FD74 /* NSArray */,
+				18F3CE9E1A3079C300E42F24 /* 04-NSMutableArray */,
+				18D7113F1A30114500A4FD74 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18D7113F1A30114500A4FD74 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18D7113E1A30114500A4FD74 /* 1204-字符串 */,
+				18D7114F1A30582800A4FD74 /* 02-可变字符串 */,
+				18D7115A1A3061E600A4FD74 /* NSArray */,
+				18F3CE9D1A3079C300E42F24 /* 04-NSMutableArray */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18D711401A30114500A4FD74 /* 1204-字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				18D711481A301E5D00A4FD74 /* NSString+CZ.h */,
+				18D711491A301E5D00A4FD74 /* NSString+CZ.m */,
+				18D711411A30114500A4FD74 /* main.m */,
+			);
+			path = "1204-字符串";
+			sourceTree = "<group>";
+		};
+		18D711501A30582800A4FD74 /* 02-可变字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				18D711511A30582800A4FD74 /* main.m */,
+			);
+			path = "02-可变字符串";
+			sourceTree = "<group>";
+		};
+		18D7115B1A3061E600A4FD74 /* NSArray */ = {
+			isa = PBXGroup;
+			children = (
+				18D7115C1A3061E600A4FD74 /* main.m */,
+				18D711611A30632300A4FD74 /* CZPerson.h */,
+				18D711621A30632300A4FD74 /* CZPerson.m */,
+				18D711641A30633300A4FD74 /* CZDog.h */,
+				18D711651A30633300A4FD74 /* CZDog.m */,
+			);
+			path = NSArray;
+			sourceTree = "<group>";
+		};
+		18F3CE9E1A3079C300E42F24 /* 04-NSMutableArray */ = {
+			isa = PBXGroup;
+			children = (
+				18F3CE9F1A3079C300E42F24 /* main.m */,
+				18F3CEA41A307C6000E42F24 /* CZDog.h */,
+				18F3CEA51A307C6000E42F24 /* CZDog.m */,
+				18F3CEA61A307C6000E42F24 /* CZPerson.h */,
+				18F3CEA71A307C6000E42F24 /* CZPerson.m */,
+			);
+			path = "04-NSMutableArray";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18D7113D1A30114500A4FD74 /* 1204-字符串 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18D711451A30114500A4FD74 /* Build configuration list for PBXNativeTarget "1204-字符串" */;
+			buildPhases = (
+				18D7113A1A30114500A4FD74 /* Sources */,
+				18D7113B1A30114500A4FD74 /* Frameworks */,
+				18D7113C1A30114500A4FD74 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "1204-字符串";
+			productName = "1204-字符串";
+			productReference = 18D7113E1A30114500A4FD74 /* 1204-字符串 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18D7114E1A30582800A4FD74 /* 02-可变字符串 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18D711531A30582800A4FD74 /* Build configuration list for PBXNativeTarget "02-可变字符串" */;
+			buildPhases = (
+				18D7114B1A30582800A4FD74 /* Sources */,
+				18D7114C1A30582800A4FD74 /* Frameworks */,
+				18D7114D1A30582800A4FD74 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "02-可变字符串";
+			productName = "02-可变字符串";
+			productReference = 18D7114F1A30582800A4FD74 /* 02-可变字符串 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18D711591A3061E600A4FD74 /* NSArray */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18D7115E1A3061E600A4FD74 /* Build configuration list for PBXNativeTarget "NSArray" */;
+			buildPhases = (
+				18D711561A3061E600A4FD74 /* Sources */,
+				18D711571A3061E600A4FD74 /* Frameworks */,
+				18D711581A3061E600A4FD74 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NSArray;
+			productName = NSArray;
+			productReference = 18D7115A1A3061E600A4FD74 /* NSArray */;
+			productType = "com.apple.product-type.tool";
+		};
+		18F3CE9C1A3079C300E42F24 /* 04-NSMutableArray */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18F3CEA31A3079C300E42F24 /* Build configuration list for PBXNativeTarget "04-NSMutableArray" */;
+			buildPhases = (
+				18F3CE991A3079C300E42F24 /* Sources */,
+				18F3CE9A1A3079C300E42F24 /* Frameworks */,
+				18F3CE9B1A3079C300E42F24 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "04-NSMutableArray";
+			productName = "04-NSMutableArray";
+			productReference = 18F3CE9D1A3079C300E42F24 /* 04-NSMutableArray */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18D711361A30114500A4FD74 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = itcast;
+				TargetAttributes = {
+					18D7113D1A30114500A4FD74 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18D7114E1A30582800A4FD74 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18D711591A3061E600A4FD74 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18F3CE9C1A3079C300E42F24 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 18D711391A30114500A4FD74 /* Build configuration list for PBXProject "1204-字符串" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 18D711351A30114500A4FD74;
+			productRefGroup = 18D7113F1A30114500A4FD74 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18D7113D1A30114500A4FD74 /* 1204-字符串 */,
+				18D7114E1A30582800A4FD74 /* 02-可变字符串 */,
+				18D711591A3061E600A4FD74 /* NSArray */,
+				18F3CE9C1A3079C300E42F24 /* 04-NSMutableArray */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18D7113A1A30114500A4FD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18D7114A1A301E5D00A4FD74 /* NSString+CZ.m in Sources */,
+				18D711421A30114500A4FD74 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18D7114B1A30582800A4FD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18D711521A30582800A4FD74 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18D711561A3061E600A4FD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18D711661A30633300A4FD74 /* CZDog.m in Sources */,
+				18D7115D1A3061E600A4FD74 /* main.m in Sources */,
+				18D711631A30632300A4FD74 /* CZPerson.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18F3CE991A3079C300E42F24 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18F3CEA91A307C6000E42F24 /* CZPerson.m in Sources */,
+				18F3CEA01A3079C300E42F24 /* main.m in Sources */,
+				18F3CEA81A307C6000E42F24 /* CZDog.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		18D711431A30114500A4FD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		18D711441A30114500A4FD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		18D711461A30114500A4FD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18D711471A30114500A4FD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18D711541A30582800A4FD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18D711551A30582800A4FD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18D7115F1A3061E600A4FD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18D711601A3061E600A4FD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18F3CEA11A3079C300E42F24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18F3CEA21A3079C300E42F24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18D711391A30114500A4FD74 /* Build configuration list for PBXProject "1204-字符串" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18D711431A30114500A4FD74 /* Debug */,
+				18D711441A30114500A4FD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18D711451A30114500A4FD74 /* Build configuration list for PBXNativeTarget "1204-字符串" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18D711461A30114500A4FD74 /* Debug */,
+				18D711471A30114500A4FD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18D711531A30582800A4FD74 /* Build configuration list for PBXNativeTarget "02-可变字符串" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18D711541A30582800A4FD74 /* Debug */,
+				18D711551A30582800A4FD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18D7115E1A3061E600A4FD74 /* Build configuration list for PBXNativeTarget "NSArray" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18D7115F1A3061E600A4FD74 /* Debug */,
+				18D711601A3061E600A4FD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18F3CEA31A3079C300E42F24 /* Build configuration list for PBXNativeTarget "04-NSMutableArray" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18F3CEA11A3079C300E42F24 /* Debug */,
+				18F3CEA21A3079C300E42F24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18D711361A30114500A4FD74 /* Project object */;
+}

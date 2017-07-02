@@ -1,0 +1,1331 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18C8F91F1A0728450059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F91E1A0728450059B25A /* main.c */; };
+		18C8F92C1A072CDA0059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F92B1A072CDA0059B25A /* main.c */; };
+		18C8F9371A0732570059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9361A0732570059B25A /* main.c */; };
+		18C8F9421A073C500059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9411A073C500059B25A /* main.c */; };
+		18C8F94D1A07419C0059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F94C1A07419C0059B25A /* main.c */; };
+		18C8F9581A0743A30059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9571A0743A30059B25A /* main.c */; };
+		18C8F9631A0746360059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9621A0746360059B25A /* main.c */; };
+		18C8F96E1A0749370059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F96D1A0749370059B25A /* main.c */; };
+		18C8F9791A074B320059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9781A074B320059B25A /* main.c */; };
+		18C8F9841A074D770059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9831A074D770059B25A /* main.c */; };
+		18C8F98F1A076E750059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F98E1A076E750059B25A /* main.c */; };
+		18C8F99A1A0786090059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9991A0786090059B25A /* main.c */; };
+		18C8F9A51A0787BD0059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9A41A0787BD0059B25A /* main.c */; };
+		18C8F9B01A0792170059B25A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 18C8F9AF1A0792170059B25A /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		18C8F9191A0728440059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9271A072CDA0059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9321A0732570059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F93D1A073C500059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9481A07419C0059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9531A0743A30059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F95E1A0746360059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9691A0749370059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9741A074B320059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F97F1A074D770059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F98A1A076E750059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9951A0786090059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9A01A0787BD0059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		18C8F9AB1A0792170059B25A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		18C8F91B1A0728450059B25A /* 1103-知识点回顾 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1103-知识点回顾"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F91E1A0728450059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9291A072CDA0059B25A /* 01-while循环的基本概念 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "01-while循环的基本概念"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F92B1A072CDA0059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9341A0732570059B25A /* 02-while循环练习(掌握) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "02-while循环练习(掌握)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9361A0732570059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F93F1A073C500059B25A /* 03-while注意点 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "03-while注意点"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9411A073C500059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F94A1A07419C0059B25A /* 04-dowhile */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "04-dowhile"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F94C1A07419C0059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9551A0743A30059B25A /* 05-for循环 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "05-for循环"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9571A0743A30059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9601A0746360059B25A /* 06-for循环的注意点 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "06-for循环的注意点"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9621A0746360059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F96B1A0749370059B25A /* 07-break语句 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "07-break语句"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F96D1A0749370059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9761A074B320059B25A /* 08-continue语句 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "08-continue语句"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9781A074B320059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9811A074D770059B25A /* 09-循环嵌套基本认识 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "09-循环嵌套基本认识"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9831A074D770059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F98C1A076E750059B25A /* 10-循环嵌套练习 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "10-循环嵌套练习"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F98E1A076E750059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9971A0786090059B25A /* 11-九九乘法表 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "11-九九乘法表"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9991A0786090059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9A21A0787BD0059B25A /* 12-循环结构总结 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "12-循环结构总结"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9A41A0787BD0059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		18C8F9AD1A0792170059B25A /* 13-昨天练习 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "13-昨天练习"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C8F9AF1A0792170059B25A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18C8F9181A0728440059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9261A072CDA0059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9311A0732570059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F93C1A073C500059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9471A07419C0059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9521A0743A30059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F95D1A0746360059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9681A0749370059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9731A074B320059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F97E1A074D770059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9891A076E750059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9941A0786090059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F99F1A0787BD0059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9AA1A0792170059B25A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18C8F9121A0728440059B25A = {
+			isa = PBXGroup;
+			children = (
+				18C8F91D1A0728450059B25A /* 1103-知识点回顾 */,
+				18C8F92A1A072CDA0059B25A /* 01-while循环的基本概念 */,
+				18C8F9351A0732570059B25A /* 02-while循环练习(掌握) */,
+				18C8F9401A073C500059B25A /* 03-while注意点 */,
+				18C8F94B1A07419C0059B25A /* 04-dowhile */,
+				18C8F9561A0743A30059B25A /* 05-for循环 */,
+				18C8F9611A0746360059B25A /* 06-for循环的注意点 */,
+				18C8F96C1A0749370059B25A /* 07-break语句 */,
+				18C8F9771A074B320059B25A /* 08-continue语句 */,
+				18C8F9821A074D770059B25A /* 09-循环嵌套基本认识 */,
+				18C8F98D1A076E750059B25A /* 10-循环嵌套练习 */,
+				18C8F9981A0786090059B25A /* 11-九九乘法表 */,
+				18C8F9A31A0787BD0059B25A /* 12-循环结构总结 */,
+				18C8F9AE1A0792170059B25A /* 13-昨天练习 */,
+				18C8F91C1A0728450059B25A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18C8F91C1A0728450059B25A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F91B1A0728450059B25A /* 1103-知识点回顾 */,
+				18C8F9291A072CDA0059B25A /* 01-while循环的基本概念 */,
+				18C8F9341A0732570059B25A /* 02-while循环练习(掌握) */,
+				18C8F93F1A073C500059B25A /* 03-while注意点 */,
+				18C8F94A1A07419C0059B25A /* 04-dowhile */,
+				18C8F9551A0743A30059B25A /* 05-for循环 */,
+				18C8F9601A0746360059B25A /* 06-for循环的注意点 */,
+				18C8F96B1A0749370059B25A /* 07-break语句 */,
+				18C8F9761A074B320059B25A /* 08-continue语句 */,
+				18C8F9811A074D770059B25A /* 09-循环嵌套基本认识 */,
+				18C8F98C1A076E750059B25A /* 10-循环嵌套练习 */,
+				18C8F9971A0786090059B25A /* 11-九九乘法表 */,
+				18C8F9A21A0787BD0059B25A /* 12-循环结构总结 */,
+				18C8F9AD1A0792170059B25A /* 13-昨天练习 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18C8F91D1A0728450059B25A /* 1103-知识点回顾 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F91E1A0728450059B25A /* main.c */,
+			);
+			path = "1103-知识点回顾";
+			sourceTree = "<group>";
+		};
+		18C8F92A1A072CDA0059B25A /* 01-while循环的基本概念 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F92B1A072CDA0059B25A /* main.c */,
+			);
+			path = "01-while循环的基本概念";
+			sourceTree = "<group>";
+		};
+		18C8F9351A0732570059B25A /* 02-while循环练习(掌握) */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9361A0732570059B25A /* main.c */,
+			);
+			path = "02-while循环练习(掌握)";
+			sourceTree = "<group>";
+		};
+		18C8F9401A073C500059B25A /* 03-while注意点 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9411A073C500059B25A /* main.c */,
+			);
+			path = "03-while注意点";
+			sourceTree = "<group>";
+		};
+		18C8F94B1A07419C0059B25A /* 04-dowhile */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F94C1A07419C0059B25A /* main.c */,
+			);
+			path = "04-dowhile";
+			sourceTree = "<group>";
+		};
+		18C8F9561A0743A30059B25A /* 05-for循环 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9571A0743A30059B25A /* main.c */,
+			);
+			path = "05-for循环";
+			sourceTree = "<group>";
+		};
+		18C8F9611A0746360059B25A /* 06-for循环的注意点 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9621A0746360059B25A /* main.c */,
+			);
+			path = "06-for循环的注意点";
+			sourceTree = "<group>";
+		};
+		18C8F96C1A0749370059B25A /* 07-break语句 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F96D1A0749370059B25A /* main.c */,
+			);
+			path = "07-break语句";
+			sourceTree = "<group>";
+		};
+		18C8F9771A074B320059B25A /* 08-continue语句 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9781A074B320059B25A /* main.c */,
+			);
+			path = "08-continue语句";
+			sourceTree = "<group>";
+		};
+		18C8F9821A074D770059B25A /* 09-循环嵌套基本认识 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9831A074D770059B25A /* main.c */,
+			);
+			path = "09-循环嵌套基本认识";
+			sourceTree = "<group>";
+		};
+		18C8F98D1A076E750059B25A /* 10-循环嵌套练习 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F98E1A076E750059B25A /* main.c */,
+			);
+			path = "10-循环嵌套练习";
+			sourceTree = "<group>";
+		};
+		18C8F9981A0786090059B25A /* 11-九九乘法表 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9991A0786090059B25A /* main.c */,
+			);
+			path = "11-九九乘法表";
+			sourceTree = "<group>";
+		};
+		18C8F9A31A0787BD0059B25A /* 12-循环结构总结 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9A41A0787BD0059B25A /* main.c */,
+			);
+			path = "12-循环结构总结";
+			sourceTree = "<group>";
+		};
+		18C8F9AE1A0792170059B25A /* 13-昨天练习 */ = {
+			isa = PBXGroup;
+			children = (
+				18C8F9AF1A0792170059B25A /* main.c */,
+			);
+			path = "13-昨天练习";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18C8F91A1A0728440059B25A /* 1103-知识点回顾 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9221A0728450059B25A /* Build configuration list for PBXNativeTarget "1103-知识点回顾" */;
+			buildPhases = (
+				18C8F9171A0728440059B25A /* Sources */,
+				18C8F9181A0728440059B25A /* Frameworks */,
+				18C8F9191A0728440059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "1103-知识点回顾";
+			productName = "1103-知识点回顾";
+			productReference = 18C8F91B1A0728450059B25A /* 1103-知识点回顾 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9281A072CDA0059B25A /* 01-while循环的基本概念 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F92D1A072CDA0059B25A /* Build configuration list for PBXNativeTarget "01-while循环的基本概念" */;
+			buildPhases = (
+				18C8F9251A072CDA0059B25A /* Sources */,
+				18C8F9261A072CDA0059B25A /* Frameworks */,
+				18C8F9271A072CDA0059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "01-while循环的基本概念";
+			productName = "01-while循环的基本概念";
+			productReference = 18C8F9291A072CDA0059B25A /* 01-while循环的基本概念 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9331A0732570059B25A /* 02-while循环练习(掌握) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9381A0732570059B25A /* Build configuration list for PBXNativeTarget "02-while循环练习(掌握)" */;
+			buildPhases = (
+				18C8F9301A0732570059B25A /* Sources */,
+				18C8F9311A0732570059B25A /* Frameworks */,
+				18C8F9321A0732570059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "02-while循环练习(掌握)";
+			productName = "02-while循环练习(掌握)";
+			productReference = 18C8F9341A0732570059B25A /* 02-while循环练习(掌握) */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F93E1A073C500059B25A /* 03-while注意点 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9431A073C500059B25A /* Build configuration list for PBXNativeTarget "03-while注意点" */;
+			buildPhases = (
+				18C8F93B1A073C500059B25A /* Sources */,
+				18C8F93C1A073C500059B25A /* Frameworks */,
+				18C8F93D1A073C500059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "03-while注意点";
+			productName = "03-while注意点";
+			productReference = 18C8F93F1A073C500059B25A /* 03-while注意点 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9491A07419C0059B25A /* 04-dowhile */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F94E1A07419C0059B25A /* Build configuration list for PBXNativeTarget "04-dowhile" */;
+			buildPhases = (
+				18C8F9461A07419C0059B25A /* Sources */,
+				18C8F9471A07419C0059B25A /* Frameworks */,
+				18C8F9481A07419C0059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "04-dowhile";
+			productName = "04-dowhile";
+			productReference = 18C8F94A1A07419C0059B25A /* 04-dowhile */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9541A0743A30059B25A /* 05-for循环 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9591A0743A30059B25A /* Build configuration list for PBXNativeTarget "05-for循环" */;
+			buildPhases = (
+				18C8F9511A0743A30059B25A /* Sources */,
+				18C8F9521A0743A30059B25A /* Frameworks */,
+				18C8F9531A0743A30059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "05-for循环";
+			productName = "05-for循环";
+			productReference = 18C8F9551A0743A30059B25A /* 05-for循环 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F95F1A0746360059B25A /* 06-for循环的注意点 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9641A0746360059B25A /* Build configuration list for PBXNativeTarget "06-for循环的注意点" */;
+			buildPhases = (
+				18C8F95C1A0746360059B25A /* Sources */,
+				18C8F95D1A0746360059B25A /* Frameworks */,
+				18C8F95E1A0746360059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "06-for循环的注意点";
+			productName = "06-for循环的注意点";
+			productReference = 18C8F9601A0746360059B25A /* 06-for循环的注意点 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F96A1A0749370059B25A /* 07-break语句 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F96F1A0749370059B25A /* Build configuration list for PBXNativeTarget "07-break语句" */;
+			buildPhases = (
+				18C8F9671A0749370059B25A /* Sources */,
+				18C8F9681A0749370059B25A /* Frameworks */,
+				18C8F9691A0749370059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "07-break语句";
+			productName = "07-break语句";
+			productReference = 18C8F96B1A0749370059B25A /* 07-break语句 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9751A074B320059B25A /* 08-continue语句 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F97A1A074B320059B25A /* Build configuration list for PBXNativeTarget "08-continue语句" */;
+			buildPhases = (
+				18C8F9721A074B320059B25A /* Sources */,
+				18C8F9731A074B320059B25A /* Frameworks */,
+				18C8F9741A074B320059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "08-continue语句";
+			productName = "08-continue语句";
+			productReference = 18C8F9761A074B320059B25A /* 08-continue语句 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9801A074D770059B25A /* 09-循环嵌套基本认识 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9851A074D770059B25A /* Build configuration list for PBXNativeTarget "09-循环嵌套基本认识" */;
+			buildPhases = (
+				18C8F97D1A074D770059B25A /* Sources */,
+				18C8F97E1A074D770059B25A /* Frameworks */,
+				18C8F97F1A074D770059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "09-循环嵌套基本认识";
+			productName = "09-循环嵌套基本认识";
+			productReference = 18C8F9811A074D770059B25A /* 09-循环嵌套基本认识 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F98B1A076E750059B25A /* 10-循环嵌套练习 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9901A076E750059B25A /* Build configuration list for PBXNativeTarget "10-循环嵌套练习" */;
+			buildPhases = (
+				18C8F9881A076E750059B25A /* Sources */,
+				18C8F9891A076E750059B25A /* Frameworks */,
+				18C8F98A1A076E750059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "10-循环嵌套练习";
+			productName = "10-循环嵌套练习";
+			productReference = 18C8F98C1A076E750059B25A /* 10-循环嵌套练习 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9961A0786090059B25A /* 11-九九乘法表 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F99B1A0786090059B25A /* Build configuration list for PBXNativeTarget "11-九九乘法表" */;
+			buildPhases = (
+				18C8F9931A0786090059B25A /* Sources */,
+				18C8F9941A0786090059B25A /* Frameworks */,
+				18C8F9951A0786090059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "11-九九乘法表";
+			productName = "11-九九乘法表";
+			productReference = 18C8F9971A0786090059B25A /* 11-九九乘法表 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9A11A0787BD0059B25A /* 12-循环结构总结 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9A61A0787BD0059B25A /* Build configuration list for PBXNativeTarget "12-循环结构总结" */;
+			buildPhases = (
+				18C8F99E1A0787BD0059B25A /* Sources */,
+				18C8F99F1A0787BD0059B25A /* Frameworks */,
+				18C8F9A01A0787BD0059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "12-循环结构总结";
+			productName = "12-循环结构总结";
+			productReference = 18C8F9A21A0787BD0059B25A /* 12-循环结构总结 */;
+			productType = "com.apple.product-type.tool";
+		};
+		18C8F9AC1A0792170059B25A /* 13-昨天练习 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C8F9B11A0792170059B25A /* Build configuration list for PBXNativeTarget "13-昨天练习" */;
+			buildPhases = (
+				18C8F9A91A0792170059B25A /* Sources */,
+				18C8F9AA1A0792170059B25A /* Frameworks */,
+				18C8F9AB1A0792170059B25A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "13-昨天练习";
+			productName = "13-昨天练习";
+			productReference = 18C8F9AD1A0792170059B25A /* 13-昨天练习 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18C8F9131A0728440059B25A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = itcast;
+				TargetAttributes = {
+					18C8F91A1A0728440059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9281A072CDA0059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9331A0732570059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F93E1A073C500059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9491A07419C0059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9541A0743A30059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F95F1A0746360059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F96A1A0749370059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9751A074B320059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9801A074D770059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F98B1A076E750059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9961A0786090059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9A11A0787BD0059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					18C8F9AC1A0792170059B25A = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 18C8F9161A0728440059B25A /* Build configuration list for PBXProject "1103-知识点回顾" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 18C8F9121A0728440059B25A;
+			productRefGroup = 18C8F91C1A0728450059B25A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18C8F91A1A0728440059B25A /* 1103-知识点回顾 */,
+				18C8F9281A072CDA0059B25A /* 01-while循环的基本概念 */,
+				18C8F9331A0732570059B25A /* 02-while循环练习(掌握) */,
+				18C8F93E1A073C500059B25A /* 03-while注意点 */,
+				18C8F9491A07419C0059B25A /* 04-dowhile */,
+				18C8F9541A0743A30059B25A /* 05-for循环 */,
+				18C8F95F1A0746360059B25A /* 06-for循环的注意点 */,
+				18C8F96A1A0749370059B25A /* 07-break语句 */,
+				18C8F9751A074B320059B25A /* 08-continue语句 */,
+				18C8F9801A074D770059B25A /* 09-循环嵌套基本认识 */,
+				18C8F98B1A076E750059B25A /* 10-循环嵌套练习 */,
+				18C8F9961A0786090059B25A /* 11-九九乘法表 */,
+				18C8F9A11A0787BD0059B25A /* 12-循环结构总结 */,
+				18C8F9AC1A0792170059B25A /* 13-昨天练习 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18C8F9171A0728440059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F91F1A0728450059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9251A072CDA0059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F92C1A072CDA0059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9301A0732570059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9371A0732570059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F93B1A073C500059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9421A073C500059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9461A07419C0059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F94D1A07419C0059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9511A0743A30059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9581A0743A30059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F95C1A0746360059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9631A0746360059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9671A0749370059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F96E1A0749370059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9721A074B320059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9791A074B320059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F97D1A074D770059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9841A074D770059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9881A076E750059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F98F1A076E750059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9931A0786090059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F99A1A0786090059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F99E1A0787BD0059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9A51A0787BD0059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C8F9A91A0792170059B25A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C8F9B01A0792170059B25A /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		18C8F9201A0728450059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		18C8F9211A0728450059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		18C8F9231A0728450059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9241A0728450059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F92E1A072CDA0059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F92F1A072CDA0059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9391A0732570059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F93A1A0732570059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9441A073C500059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9451A073C500059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F94F1A07419C0059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9501A07419C0059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F95A1A0743A30059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F95B1A0743A30059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9651A0746360059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9661A0746360059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9701A0749370059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9711A0749370059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F97B1A074B320059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F97C1A074B320059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9861A074D770059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9871A074D770059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9911A076E750059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9921A076E750059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F99C1A0786090059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F99D1A0786090059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9A71A0787BD0059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9A81A0787BD0059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		18C8F9B21A0792170059B25A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		18C8F9B31A0792170059B25A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18C8F9161A0728440059B25A /* Build configuration list for PBXProject "1103-知识点回顾" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9201A0728450059B25A /* Debug */,
+				18C8F9211A0728450059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18C8F9221A0728450059B25A /* Build configuration list for PBXNativeTarget "1103-知识点回顾" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9231A0728450059B25A /* Debug */,
+				18C8F9241A0728450059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F92D1A072CDA0059B25A /* Build configuration list for PBXNativeTarget "01-while循环的基本概念" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F92E1A072CDA0059B25A /* Debug */,
+				18C8F92F1A072CDA0059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9381A0732570059B25A /* Build configuration list for PBXNativeTarget "02-while循环练习(掌握)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9391A0732570059B25A /* Debug */,
+				18C8F93A1A0732570059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9431A073C500059B25A /* Build configuration list for PBXNativeTarget "03-while注意点" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9441A073C500059B25A /* Debug */,
+				18C8F9451A073C500059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F94E1A07419C0059B25A /* Build configuration list for PBXNativeTarget "04-dowhile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F94F1A07419C0059B25A /* Debug */,
+				18C8F9501A07419C0059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9591A0743A30059B25A /* Build configuration list for PBXNativeTarget "05-for循环" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F95A1A0743A30059B25A /* Debug */,
+				18C8F95B1A0743A30059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9641A0746360059B25A /* Build configuration list for PBXNativeTarget "06-for循环的注意点" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9651A0746360059B25A /* Debug */,
+				18C8F9661A0746360059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F96F1A0749370059B25A /* Build configuration list for PBXNativeTarget "07-break语句" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9701A0749370059B25A /* Debug */,
+				18C8F9711A0749370059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F97A1A074B320059B25A /* Build configuration list for PBXNativeTarget "08-continue语句" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F97B1A074B320059B25A /* Debug */,
+				18C8F97C1A074B320059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9851A074D770059B25A /* Build configuration list for PBXNativeTarget "09-循环嵌套基本认识" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9861A074D770059B25A /* Debug */,
+				18C8F9871A074D770059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9901A076E750059B25A /* Build configuration list for PBXNativeTarget "10-循环嵌套练习" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9911A076E750059B25A /* Debug */,
+				18C8F9921A076E750059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F99B1A0786090059B25A /* Build configuration list for PBXNativeTarget "11-九九乘法表" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F99C1A0786090059B25A /* Debug */,
+				18C8F99D1A0786090059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9A61A0787BD0059B25A /* Build configuration list for PBXNativeTarget "12-循环结构总结" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9A71A0787BD0059B25A /* Debug */,
+				18C8F9A81A0787BD0059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		18C8F9B11A0792170059B25A /* Build configuration list for PBXNativeTarget "13-昨天练习" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C8F9B21A0792170059B25A /* Debug */,
+				18C8F9B31A0792170059B25A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18C8F9131A0728440059B25A /* Project object */;
+}
